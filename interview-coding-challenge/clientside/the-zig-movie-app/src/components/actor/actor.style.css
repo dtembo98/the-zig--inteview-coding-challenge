@@ -1,0 +1,37 @@
+.actor-container {
+  display: inline-flex;
+  /* flex-wrap: wrap; */
+  justify-content: space-around;
+  width: 70px;
+  height: 130px;
+}
+.actor-image {
+  width: 190px;
+  height: 170px;
+  /* float: left; */
+  box-sizing: border-box;
+  object-fit: cover;
+}
+.actor-name {
+  font-family: "Abel", sans-serif;
+  font-size: 13px;
+  color: #fff;
+  /* float: left; */
+  /* margin: 10px 20px; */
+  width: 40%;
+  box-sizing: border-box;
+}
+.actor-character {
+  font-family: "Abel", sans-serif;
+  font-style: italic;
+  font-size: 10px;
+  color: #fff;
+  float: left;
+  /* margin: 0 20px 10px 20px; */
+  width: 40%;
+  box-sizing: border-box;
+}
+#text {
+  display: grid;
+  margin: 0 20px;
+}

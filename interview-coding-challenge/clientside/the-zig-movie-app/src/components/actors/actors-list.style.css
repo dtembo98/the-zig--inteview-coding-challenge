@@ -1,0 +1,6 @@
+.actor-list {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  background-color: #181A1B;
+  grid-gap: 20px;
+}
