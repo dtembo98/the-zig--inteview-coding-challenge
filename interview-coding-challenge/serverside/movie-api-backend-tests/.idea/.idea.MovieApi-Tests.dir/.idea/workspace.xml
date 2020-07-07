@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d78de23-c502-4cf0-b243-e09817343f6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/Description.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/Header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/src/serviceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientside/zig-movie-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Controllers/ValuesController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../serverside.csproj" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ControllerTests/MoviesControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServicesTests/ServiceMovieTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServicesTests/FakeMessageHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../MovieApi/Services/Movies.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ControllerTests/MoviesControllerTests.cs" />
+        <option value="$PROJECT_DIR$/ServicesTests/ServicesMovieTests.cs" />
+        <option value="$PROJECT_DIR$/ServicesTests/FakeHttpMessageHandler.cs" />
+        <option value="$PROJECT_DIR$/ServicesTests/DelegatingHandlerStub.cs" />
+        <option value="$PROJECT_DIR$/ServicesTests/ServiceMovieTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bRqbNJdeYuXrhpRYiXlyDq2cDg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d78de23-c502-4cf0-b243-e09817343f6c" name="Default Changelist" comment="" />
+      <created>1588605323099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588605323099</updated>
+      <workItem from="1588605324466" duration="5689000" />
+      <workItem from="1588758938522" duration="19000" />
+      <workItem from="1588764677660" duration="5836000" />
+      <workItem from="1588783317699" duration="1941000" />
+      <workItem from="1588793787527" duration="4671000" />
+      <workItem from="1588865144690" duration="599000" />
+      <workItem from="1588872217803" duration="3453000" />
+      <workItem from="1589280326031" duration="17000" />
+      <workItem from="1589280363104" duration="2032000" />
+      <workItem from="1589354901085" duration="11230000" />
+      <workItem from="1589552633119" duration="2949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="298" width="424" height="485" key="FileChooserDialogImpl" timestamp="1589280338463">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state x="263" y="298" width="424" height="485" key="FileChooserDialogImpl/0.27.1920.1027@0.27.1920.1027" timestamp="1589280338463" />
+    <state width="904" height="332" key="GridCell.Tab.0.bottom" timestamp="1588796616174">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.0.bottom/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616174" />
+    <state width="904" height="332" key="GridCell.Tab.0.center" timestamp="1588796616173">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.0.center/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616173" />
+    <state width="904" height="332" key="GridCell.Tab.0.left" timestamp="1588796616173">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.0.left/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616173" />
+    <state width="904" height="332" key="GridCell.Tab.0.right" timestamp="1588796616174">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.0.right/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616174" />
+    <state width="904" height="332" key="GridCell.Tab.1.bottom" timestamp="1588796616176">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.1.bottom/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616176" />
+    <state width="904" height="332" key="GridCell.Tab.1.center" timestamp="1588796616175">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.1.center/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616175" />
+    <state width="904" height="332" key="GridCell.Tab.1.left" timestamp="1588796616174">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.1.left/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616174" />
+    <state width="904" height="332" key="GridCell.Tab.1.right" timestamp="1588796616176">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.1.right/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616176" />
+    <state width="904" height="332" key="GridCell.Tab.2.bottom" timestamp="1588796616178">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.2.bottom/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616178" />
+    <state width="904" height="332" key="GridCell.Tab.2.center" timestamp="1588796616177">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.2.center/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616177" />
+    <state width="904" height="332" key="GridCell.Tab.2.left" timestamp="1588796616176">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.2.left/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616176" />
+    <state width="904" height="332" key="GridCell.Tab.2.right" timestamp="1588796616177">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.2.right/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616177" />
+    <state width="904" height="332" key="GridCell.Tab.3.bottom" timestamp="1588796616179">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.3.bottom/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616179" />
+    <state width="904" height="332" key="GridCell.Tab.3.center" timestamp="1588796616178">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.3.center/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616178" />
+    <state width="904" height="332" key="GridCell.Tab.3.left" timestamp="1588796616178">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.3.left/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616178" />
+    <state width="904" height="332" key="GridCell.Tab.3.right" timestamp="1588796616179">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.3.right/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616179" />
+    <state width="904" height="332" key="GridCell.Tab.4.bottom" timestamp="1588796616181">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.4.bottom/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616181" />
+    <state width="904" height="332" key="GridCell.Tab.4.center" timestamp="1588796616180">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.4.center/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616180" />
+    <state width="904" height="332" key="GridCell.Tab.4.left" timestamp="1588796616180">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.4.left/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616180" />
+    <state width="904" height="332" key="GridCell.Tab.4.right" timestamp="1588796616181">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state width="904" height="332" key="GridCell.Tab.4.right/0.27.1920.1027@0.27.1920.1027" timestamp="1588796616181" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ControllerTests/MoviesControllerTests.cs</url>
+          <line>61</line>
+          <properties documentPath="$PROJECT_DIR$/ControllerTests/MoviesControllerTests.cs" initialLine="64">
+            <startOffsets>
+              <option value="2109" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2110" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

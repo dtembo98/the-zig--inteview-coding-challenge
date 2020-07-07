@@ -1,0 +1,88 @@
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Moq;
+using NUnit.Framework;
+using MovieApi;
+using MovieApi.Controllers;
+using MovieApi.Models;
+using MovieApi.Services;
+namespace MovieApi_Tests.ControllerTests
+{
+    public class MoviesControllerTests
+    {
+        private readonly Mock<IMovie> _mockRepo;
+        private readonly MovieController _controller;
+        public MoviesControllerTests()
+        {
+            _mockRepo = new Mock<IMovie>();
+            _controller = new MovieController(_mockRepo.Object);
+        }
+       
+         
+        [Test]
+        public async Task GetPopularMovies_WhenCalled_ReturnNotFound()
+        {
+            var result =await _controller.GetPopularMovies(1);
+            Assert.That(result,Is.InstanceOf<NotFoundResult>());
+            
+        }
+        [Test]
+        public async Task GetPopularMovies_WhenCalled_ReturnOK()
+        {     var moviecollectionObject = new MovieCollection();
+            _mockRepo.Setup(movies => movies.GetPopularMovies(1)).ReturnsAsync(moviecollectionObject);
+            var result =await _controller.GetPopularMovies(1);
+            Assert.That(result,Is.InstanceOf<ObjectResult>());
+            
+        }
+        [Test]
+        public async Task SearchMovie_WhenCalled_ReturnNotFound()
+        {
+            var result =await _controller.SearchMovie("");
+            Assert.That(result,Is.InstanceOf<NotFoundResult>()); 
+        }
+        [Test]
+        public async Task SearchMovie_WhenCalled_ReturnOK()
+        {
+            var moviecollectionObject = new MovieCollection();
+
+            _mockRepo.Setup(movies => movies.Search("")).ReturnsAsync(moviecollectionObject);
+            var result =await _controller.SearchMovie("");
+            Assert.That(result,Is.InstanceOf<ObjectResult>());
+        }
+
+        [Test]
+        public async Task GetMovie_WhenCalled_ReturnNotFound()
+        {
+            var singlemovie = new Movie();
+            var result = await _controller.GetMovie(1);
+            Assert.That(result,Is.TypeOf<NotFoundResult>());
+        }
+        [Test]
+        public async Task GetMovie_WhenCalled_ReturnOK()
+        {
+            var singlemovie = new Movie();
+            _mockRepo.Setup(movie => movie.GetMovie(1)).ReturnsAsync(singlemovie);
+            var result = await _controller.GetMovie(1);
+            Assert.That(result,Is.InstanceOf<OkObjectResult>());
+        }
+        [Test]
+        public async Task GetMovieCredits_WhenCalled_ReturnOK()
+        {
+            var moviecredits = new Credits();
+            _mockRepo.Setup(movie => movie.GetMovieCredits(1)).ReturnsAsync(moviecredits);
+            var result = await _controller.GetMovieCredits(1);
+            Assert.That(result,Is.InstanceOf<OkObjectResult>()); 
+        }
+        [Test]
+        public async Task GetMovieCredits_WhenCalled_ReturnNotFound()
+        {
+
+            var result = await _controller.GetMovieCredits(1);
+            Assert.That(result,Is.InstanceOf<NotFoundResult>());
+        
+        }
+   
+    }
+    
+    
+}

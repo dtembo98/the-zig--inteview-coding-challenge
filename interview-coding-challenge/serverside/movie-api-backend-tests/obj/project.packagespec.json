@@ -1,0 +1,75 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/MovieApi-Tests.csproj",
+    "projectName": "MovieApi-Tests",
+    "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/MovieApi-Tests.csproj",
+    "outputPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj": {
+            "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.4.0, )"
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.14.1, )"
+        },
+        "NSubstitute": {
+          "target": "Package",
+          "version": "[4.2.1, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.15.1, )"
+        },
+        "nunit": {
+          "target": "Package",
+          "version": "[3.12.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+    }
+  }
+}

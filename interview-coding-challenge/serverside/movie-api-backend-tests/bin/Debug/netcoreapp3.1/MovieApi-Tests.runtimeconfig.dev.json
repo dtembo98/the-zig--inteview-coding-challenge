@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/trojan/.dotnet/store/|arch|/|tfm|",
+      "/home/trojan/.nuget/packages"
+    ]
+  }
+}
