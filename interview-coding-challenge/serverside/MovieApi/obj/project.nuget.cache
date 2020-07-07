@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "v0bldmvlGq99KUvEQVViw9WM7hTg6HRcJxfVFkawAFfDv/6WO8Q9nKEPuCofa1rSI8jwU+p4xD7iDc7CkgwDCw==",
+  "success": true,
+  "projectFilePath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj",
+  "expectedPackageFiles": [
+    "/home/trojan/.nuget/packages/microsoft.extensions.configuration/3.1.3/microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.3/microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.configuration.binder/3.1.3/microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.3/microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.3/microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.http/3.1.3/microsoft.extensions.http.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.http.polly/3.1.3/microsoft.extensions.http.polly.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.logging/3.1.3/microsoft.extensions.logging.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.3/microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.options/3.1.3/microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/microsoft.extensions.primitives/3.1.3/microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/trojan/.nuget/packages/polly/7.2.0/polly.7.2.0.nupkg.sha512",
+    "/home/trojan/.nuget/packages/polly.extensions.http/3.0.0/polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
