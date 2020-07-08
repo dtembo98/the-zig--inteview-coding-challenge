@@ -27,13 +27,20 @@ This project is a simple movie app based on the moviedb api it consists of serve
 ### server side
 
 1 - change to the server side directory 
+
 2 - Run the command `dotnet restore` to install all the dependencies.
 
 3 - Run the command `dotnet build` to compile the project.
 
 4 - Run the command `dotnet run` to start serving the project.
+
 5 - That it's, your application is running in `http://localhost:5001`.
 
 ### client-side 
+
 1 - change to the client side directory 
+
+2 - Run the command `npm install`
+
+3 - Run the command `npm start`
 
