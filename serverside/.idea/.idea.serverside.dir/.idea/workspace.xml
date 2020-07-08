@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/MovieApi/Models/MovieCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/movie-api-backend-tests/Services.UnitTests/Movie_GetPopularMoviesTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MovieApi/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MovieApi/Services/IMovie.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/movie-api-backend-tests/Services.UnitTests/Movie_GetMovieCreditsTests.cs" root0="FORCE_HIGHLIGHTING" />
@@ -32,9 +33,9 @@
         <option value="$PROJECT_DIR$/MovieApi/Controllers/MovieController.cs" />
         <option value="$PROJECT_DIR$/MovieApi-Tests/ControllerTests/MoviesControllerTests.cs" />
         <option value="$PROJECT_DIR$/MovieApi/Program.cs" />
-        <option value="$PROJECT_DIR$/MovieApi/Services/MovieService.cs" />
         <option value="$PROJECT_DIR$/MovieApi-Tests/Services.UnitTests/Movie_GetMovieCreditsTests.cs" />
         <option value="$PROJECT_DIR$/MovieApi-Tests/Services.UnitTests/Movie_GetMovieTests.cs" />
+        <option value="$PROJECT_DIR$/MovieApi/Services/MovieService.cs" />
       </list>
     </option>
   </component>
@@ -107,7 +108,7 @@
       <workItem from="1590343566954" duration="1734000" />
       <workItem from="1590407798195" duration="2615000" />
       <workItem from="1590485368339" duration="1261000" />
-      <workItem from="1594244898598" duration="426000" />
+      <workItem from="1594244898598" duration="1029000" />
     </task>
     <servers />
   </component>
@@ -132,22 +133,22 @@
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
     <state x="263" y="298" width="424" height="485" key="FileChooserDialogImpl/0.27.1920.1027@0.27.1920.1027" timestamp="1590344217424" />
-    <state width="1874" height="269" key="GridCell.Tab.0.bottom" timestamp="1594245344337">
+    <state width="1874" height="269" key="GridCell.Tab.0.bottom" timestamp="1594245926781">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
-    <state width="1874" height="269" key="GridCell.Tab.0.bottom/0.27.1920.1027@0.27.1920.1027" timestamp="1594245344337" />
-    <state width="1874" height="269" key="GridCell.Tab.0.center" timestamp="1594245344337">
+    <state width="1874" height="269" key="GridCell.Tab.0.bottom/0.27.1920.1027@0.27.1920.1027" timestamp="1594245926781" />
+    <state width="1874" height="269" key="GridCell.Tab.0.center" timestamp="1594245926781">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
-    <state width="1874" height="269" key="GridCell.Tab.0.center/0.27.1920.1027@0.27.1920.1027" timestamp="1594245344337" />
-    <state width="1874" height="269" key="GridCell.Tab.0.left" timestamp="1594245344336">
+    <state width="1874" height="269" key="GridCell.Tab.0.center/0.27.1920.1027@0.27.1920.1027" timestamp="1594245926781" />
+    <state width="1874" height="269" key="GridCell.Tab.0.left" timestamp="1594245926780">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
-    <state width="1874" height="269" key="GridCell.Tab.0.left/0.27.1920.1027@0.27.1920.1027" timestamp="1594245344336" />
-    <state width="1874" height="269" key="GridCell.Tab.0.right" timestamp="1594245344337">
+    <state width="1874" height="269" key="GridCell.Tab.0.left/0.27.1920.1027@0.27.1920.1027" timestamp="1594245926780" />
+    <state width="1874" height="269" key="GridCell.Tab.0.right" timestamp="1594245926781">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
-    <state width="1874" height="269" key="GridCell.Tab.0.right/0.27.1920.1027@0.27.1920.1027" timestamp="1594245344337" />
+    <state width="1874" height="269" key="GridCell.Tab.0.right/0.27.1920.1027@0.27.1920.1027" timestamp="1594245926781" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
