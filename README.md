@@ -18,7 +18,7 @@ This project is a simple movie app based on the moviedb api it consists of serve
 - The Movie db API key.
 ### client-side
 - Any OS
-
+- node js
 
 ## Set up 
 
