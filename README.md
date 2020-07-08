@@ -7,3 +7,11 @@ This project is a simple movie app based on the moviedb api it consists of serve
 - shows popular movies.
 - Allows you to search for a specific movie by title.
 - Allows you to view specific movie info.
+
+## Requirements
+
+- Any OS
+- .NET Core 3.0 or superior
+- visual studio or Rider by jetbrains
+- internet connectivity
+- The Movie db API key.
