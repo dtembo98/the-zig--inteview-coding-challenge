@@ -44,6 +44,9 @@ This project is a simple movie app based on the moviedb api it consists of serve
 
 3 - Run the command `npm start`
 
+### Server side Unit Tests
+
+1. add the the-movie-api as a package referrence and run the tests
 
 ## The movie api Swagger documentation
 
