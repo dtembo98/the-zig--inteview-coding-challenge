@@ -1,96 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/MovieApi-Tests.csproj": {}
+    "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/movie-api-backend-tests/MovieApi-Tests.csproj": {}
   },
   "projects": {
-    "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/MovieApi-Tests.csproj": {
+    "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/MovieApi-Tests.csproj",
-        "projectName": "MovieApi-Tests",
-        "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/MovieApi-Tests.csproj",
-        "packagesPath": "/home/trojan/.nuget/packages/",
-        "outputPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/home/trojan/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {
-              "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj": {
-                "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[16.4.0, )"
-            },
-            "Moq": {
-              "target": "Package",
-              "version": "[4.14.1, )"
-            },
-            "NSubstitute": {
-              "target": "Package",
-              "version": "[4.2.1, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[3.15.1, )"
-            },
-            "nunit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj",
+        "projectUniqueName": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj",
         "projectName": "MovieApi",
-        "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj",
+        "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj",
         "packagesPath": "/home/trojan/.nuget/packages/",
-        "outputPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/obj/",
+        "outputPath": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/MovieApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/trojan/.nuget/NuGet/NuGet.Config"
+          "/home/trojan/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -143,7 +67,86 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/movie-api-backend-tests/MovieApi-Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/movie-api-backend-tests/MovieApi-Tests.csproj",
+        "projectName": "MovieApi-Tests",
+        "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/movie-api-backend-tests/MovieApi-Tests.csproj",
+        "packagesPath": "/home/trojan/.nuget/packages/",
+        "outputPath": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/movie-api-backend-tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/trojan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj": {
+                "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     }

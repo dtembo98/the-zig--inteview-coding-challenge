@@ -46,7 +46,7 @@
           </e>
         </e>
       </e>
-      <e p="MovieApi-Tests" t="IncludeRecursive">
+      <e p="movie-api-backend-tests" t="IncludeRecursive">
         <e p="Controller.UnitTests" t="Include">
           <e p="MovieTests.Tests" t="Include" />
         </e>

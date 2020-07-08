@@ -14,16 +14,15 @@ namespace MovieApi.Services
     {
         private readonly IHttpClientFactory _httpClientFactory;
         private readonly IOptions<ServiceSettings> _serviceSettings;
-        public MovieService(IHttpClientFactory httpClientFactory,IOptions<ServiceSettings> serviceSettings)
+        public MovieService(IHttpClientFactory httpClientFactory)
         {
             _httpClientFactory = httpClientFactory;
-            _serviceSettings = serviceSettings;
+            
         }
 
        
         public async Task<MovieCollection> GetPopularMovies(int PageNumber = 1)
-        {     
-            Console.WriteLine(_serviceSettings.Value.ApiKey);
+        {
             // Get an instance of HttpClient from the factpry that we registered
             // in Startup.cs
             var client = _httpClientFactory.CreateClient("Movie Api");

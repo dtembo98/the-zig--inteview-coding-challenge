@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/MovieApi-Tests.csproj",
+    "projectUniqueName": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/movie-api-backend-tests/MovieApi-Tests.csproj",
     "projectName": "MovieApi-Tests",
-    "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/MovieApi-Tests.csproj",
-    "outputPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi-Tests/obj/",
+    "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/movie-api-backend-tests/MovieApi-Tests.csproj",
+    "outputPath": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/movie-api-backend-tests/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj": {
-            "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj"
+          "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj": {
+            "projectPath": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj"
           }
         }
       }
@@ -69,7 +69,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
     }
   }
 }

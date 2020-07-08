@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v0bldmvlGq99KUvEQVViw9WM7hTg6HRcJxfVFkawAFfDv/6WO8Q9nKEPuCofa1rSI8jwU+p4xD7iDc7CkgwDCw==",
+  "dgSpecHash": "e4Fl495hWUrVJikEnB3jngiB/gCIJITg8+uayFroUkhOLwqlY2wP4C+MdQlUTA+qyQbm1nsR84hFbfhSlETziA==",
   "success": true,
-  "projectFilePath": "/home/trojan/Desktop/Workspace/workspace-David/workspace/react/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj",
+  "projectFilePath": "/home/trojan/Desktop/Workspace/workspace-David/ASP.Net/the-zig--inteview-coding-challenge/interview-coding-challenge/serverside/MovieApi/MovieApi.csproj",
   "expectedPackageFiles": [
     "/home/trojan/.nuget/packages/microsoft.extensions.configuration/3.1.3/microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "/home/trojan/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.3/microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
