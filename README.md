@@ -46,7 +46,7 @@ This project is a simple movie app based on the moviedb api it consists of serve
 
 ### Server side Unit Tests
 
-1. add the the-movie-api as a package referrence and run the tests
+1. add the the-movie-api as a referrence for the movie Test and run the tests
 
 ## The movie api Swagger documentation
 
