@@ -44,3 +44,7 @@ This project is a simple movie app based on the moviedb api it consists of serve
 
 3 - Run the command `npm start`
 
+
+## The movie api Swagger documentation
+
+https://app.swaggerhub.com/apis-docs/dtembo98/the-movie-api/1.0.0#/
